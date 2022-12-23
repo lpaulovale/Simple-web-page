@@ -1,2 +1,2 @@
 # Simple-web-page
-First Web-page. Already see a lot of things that could go better in it.
+My first web page created using figma, javascript, html e css. The page is a test sign up page with only two boxes and label, and a banner (for Microsoft Edge navigator). 
